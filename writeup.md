@@ -11,6 +11,15 @@ Chronologically, actions taken:
 7) Decided to work on Reddit profiles, as claude can work with that. 
 8) Secondary claude wanted to work on fictional data, told it to work on real data instead.
 9) Primary claude's judgement will be checked by Secondary Claude and the gpt independently. 
-10) Figuring out the quantitative formula to estimate the bias
+10) Figuring out the quantitative formula to estimate the bias. 
+11) Checking the secondary's work. 
+12) Finishing it up and getting everything in a repo. 
+
+
+Discourse definition:
+
+▎ Discourse. A comment is classified as discourse (1) if it takes a side in a disagreement: it contradicts, challenges, corrects, or sarcastically rebuts the comment it replies to (or, for top-level comments, the story); it explicitly sides with one party in an ongoing disagreement; or it asserts a political or contested-value position. A comment is not discourse (0) if it only adds information, asks a neutral question, makes a joke with no stance, thanks someone, or agrees with an uncontested statement.
+▎ Discourser. An active user i is a discourser (D_i = 1) if a single comment drawn uniformly at random from their comments in the window is discourse. Using exactly one comment per user ensures that users who comment more do not get more chances to be classified as discoursers.
+▎ Active user. A user who posted at least one comment in the 30-day window.
 
 
