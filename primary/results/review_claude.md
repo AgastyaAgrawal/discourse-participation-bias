@@ -1,0 +1,5 @@
+# Independent Claude subagent review (fresh context, read-only) of final HN experiment
+Verdict: SOUND WITH CAVEATS.
+Label check items #100-139 (blind, rubric only): reviewer labels 1110111001 0101100011 0001000110 0101111100; agreement 36/40 (90%), kappa 0.80. Diffs #110,#115 (reviewer 0) and #128,#134 (reviewer 1). Swapping them: beta 0.040->0.020, B/B0 1.029->1.015.
+Points: (1) formulas correct; n=140 vs pre-registered ~120. (2) time-gap sampling over-samples quiet-hour comments; c window not aligned with comment date. (3) B0 tail-sensitive: drop max-c user -> 9.12 (verified); report ~9-11. (4) B/B0~1 restates beta~0, not independent; beta upper CI allows ~7x odds over c range. (5) replies D=0.71 (n=112) vs top-level 0.32 (n=28) (verified) - composition could mask opposite trends. (6) Claude-Claude agreement = consistency not validity; truncation causes borderline cases.
+Weakest point: broad rubric (construct validity). Cheapest test: relabel same 140 with strict political/contested-value rubric; beta by comment type; human blind-label ~30 items.

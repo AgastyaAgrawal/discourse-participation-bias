@@ -1,0 +1,280 @@
+#0 P: If Google didn’t put those there, people would be going to other LLMs to get their answers quickly. I don’t know how this ends but I strongly doubt any unilateral effort to withhold llm service by Google changes the medium term outcome.
+   C: Exactly, people treated Google like it was AI long before the rise of LLMs. Now they actually get the answer they're looking for rather than searching through a sea of web links.
+#1 STORY: Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander
+   C: Incredible. Honestly tweaking old games is one of my favorite things to do with AI. I've been having a huge go at Captain Claw, one of my favorite games from childhood. Thanks for sharing this. :)
+#2 P: yeah that’s called maintenance gang
+   C: If you have an error budget, you better spend it or customers will start having unrealistic expectations :)
+#3 P: If you delete the linode, you pay nothing. Linode bills hourly. At that point the cost is the custom volume you boot from, and that's cheap. The custom volume keeps your persistent install, configs, work in progress, etc. You can programmatically kic
+   C: Oh, you're just talking about deleting it when you're not using it in general, rather than during peak times. Makes sense.
+#4 STORY: Court denies motion to dismiss DRAM price fixing case
+   C: Not exactly related but I was thinking why don’t gov make rule like 40% of DRAM production has to be allocated for consumer electronics sectors but no AI regulation, wonder that would make compute distributed and no chicken and chicken man situation
+#5 P: Yeah, I swear AI writing is worse than it was. Part of my big model release tests has always been asking it to write a few chapters in different styles, and I swear they have slowly gone from really bad, to boring and plain (I remember Gemini 3 being
+   C: They're still heavily RL'd on response formatting/clarity, and against common LLM-isms. Long form prose quality is expensive to RL so I expect this to languish for a while until other low hanging fruit has been picked.
+#6 P: It will be interesting to see if and how people who campaigned on broad "anti-datacenter" platforms actually make it happen. I imagine it's easy to take a stance but getting the real political capital together, especially as a governor who will almos
+   C: Legislation or not, good luck getting those permits.
+#7 STORY: 93% of paint splatters are valid Perl programs (2019)
+   C: Luckily with AI, that has since increased to 100% with a small prompt ...
+#8 P: Pfft - this doesn't make a general point about quantisation - he completely altered the drum part. He didn't just shift things by minute amounts to hit the "exact" timing while maintaining the swing. Of course if you remove swing then it's completely
+   C: It probably could. Point he's trying to make is that it very often isn't. Lots of pop music is just snapped to grid. Makes it easier to repeat and swap sections. I'm not sure his demonstration is 'fair', as in someone really quantizing that track would probably do a slightly better job. But it does 
+#9 P: Do you really believe the majority of people are indoctrinated and have no valid thoughts or feelings on these things? If yes, what about you, compared to them, makes you immune to indoctrination? My main counterpoint datum is the US midterm election
+   C: > Do you really believe the majority of people are indoctrinated and have no valid thoughts or feelings on these things? If half the population consume the same sort of media that's all saying the same thing then they're very likely to believe the same thing. They will believe they noticed something
+#10 STORY: Get Ready for Touch on Mac
+   C: Explains why the UX got shittier over the past 1.5 years.
+#11 P: This is again will be very funny race to watch. Right now you can fairly do lots of reverse enginnering or "hacking" with off the shelf Chinese models, and they are very capable (GLM3 for example) which can be run locally if you stomach the hardware.
+   C: Have you tried Qwen3.8-Flash-Next? I found it significantly better in anything I tested than GLM5.3-Flash, but the thing is you either use Alibaba cloud or you host it yourself (no lesser quant than unsloth 4.5 or mx4/nvfp4 and kv no more quantized than int8).
+#12 STORY: One Man's Pan Am 747 Replica [video]
+   C: Is there a word that combines wholesome and insane?
+#13 P: The problem isn’t “it’s more complicated” but more “if something goes wrong there’s not a lot you can do”. There’s basically no redundancy and a lot of single points of failure. Having two sets of Parachutes is a lot harder to screw up than a powered
+   C: If they reach the launch cadence they're aiming for, the fix for a lot of things is going to become "just send another Ship".
+#14 P: >> if somebody's only concerned about paying rent next month If this is true wouldn’t it be nice if the municipal budget had some room to manouver? [1] [1]: https://www.forbes.com/sites/billconerly/2026/09/19/700-bill...
+   C: Let me translate this for how a person negatively affected by this is going to see what you're saying: 'We are regularly deceptive and unadulteratedly self interested. Now we're going to create a catastrophic problem for you, one that is reasonably likely to be unprecedented in scale, because we dee
+#15 P: That would be socialism and socialism is bad.
+   C: Why?
+#16 P: > Sure, the same can be said of an async library An generic future is much harder to be called like this. You need to to create wakers and if you don't properly handle them you'll busy loop. You also need to provide the exact runtime the future needs
+   C: > An generic future is much harder to be called like this. You need to to create wakers and if you don't properly handle them you'll busy loop. You also need to provide the exact runtime the future needs for its I/O. You don't actually have to handle I/O with the async runtime if you don't want. You
+#17 P: What interview was that? The famous interview I know is when he said: "I really can't do a good job, any job, of explaining magnetic force in terms of something else you're more familiar with, because I don't understand it in terms of anything else t
+   C: Yes, this sounds like the interview that I was remembering. >Fundamental forces just are, and you understand them by studying them. This is largely the point I was trying to make. One must understand QM using non-everyday ideas developed with math and measurement. But once those ideas are held, simi
+#18 P: The post is about ai literature winning awards. Since an award is supposed to be a measure of quality, not unit-cost, a trend of ai winning awards is either indicative of the quality of the writing or of a systemic flaw in how these awards are judged
+   C: > a trend of ai winning awards is either indicative of the quality of the writing or of a systemic flaw in how these awards are judged (which seems plausible too). I definitely think this is plausible, and I think we need to start extending the idea of code "smells" to regular languages as well. I h
+#19 STORY: Why I Still Own a DVD Player – and You Should, Too
+   C: I watch only tubi.com and sbs.com.au. When ads come on I just mute the sound, gaze at the ceiling, and ponder some programming related task I'm working on. I might ponder the same issue 10 times, but the benefit of that is by the following day I've cleared every wrinkle and work proceeds effortlessl
+#20 P: I suspect that this actually downloads something instead of uploading. I have no proof, but I believe it.
+   C: It's a reference to the old "download more RAM" meme. I would be shocked if it did anything at all.
+#21 P: Free install by ADB, and Developer-moding once per device, not once per app / install? Yeah, OK. I don't quite get the outrage, then. Before you @ me, HN, I run GrapheneOS. I fully understand and practice "own your own hardware". Most people probably
+   C: I don't really see how gating behind dev mode isn't sufficient vs dev mode plus an arbitrary time limit that google gets to control
+#22 P: Formal verification against what? The elusive 100%-coverage formal spec that covers every intended and unintended input, the interests of every stakeholder, and every possible user behavior? In the vibecoding era? No, the page has the decency to ackn
+   C: The main thing they focused on in that is just cybersecurity. Formal verification to try and get rid of surface area for vulnerabilities. Seems like a good idea idk. It also sounds like they're just kinda getting started with it - we'll have to see what opus 5.6 or 5.7 looks like after they've RLed 
+#23 P: 75% over the sustainable budget? Yikes! Doesn't encourage me to use them for anything long term.
+   C: I'd say since it's salaries they can do something about it if they're running out of money. Capital drawdowns might be from grants.
+#24 P: interesting, i exactly read the opposite position from biologists that the mice experiments are now very useful when it comes to applicability to humans. I guess we have every possible oppinion.
+   C: I don't think that any self-respecting biologist would actually make any sort of categorical dismissal of research in mice. That kind of research has been the basis of noble prize-winning advancements in immunotherapies that now positively impact cancer survival rates for humans. I'm sure the totali
+#25 P: I'm very open-minded about entertaining drastic societal changes but I just don't think the facts support this prediction. 1. LLM performance has more or less peaked. Since Fable 5 released in June, every Claude model has been a ~1-2% improvement ove
+   C: How much do you want to bet? And what would be the decision criteria? Any benchmark that you trust?
+#26 P: Noob Question: Apart from these cryptographic systems would it be useful to build these proofs for general pieces of software? Specifically: 1. Has someone applied it to software systems where an AI agent is in the critical path in production i.e. no
+   C: > But probably not that useful for building an API backed service. At least in domains that are "important" (and perhaps everyone thinks their business/API is important?), I'd want this. For example - Stripe. If I'm using the stripe API, I want it to be guaranteed to work exactly as documented in al
+#27 STORY: Compress any LLM 3x in one click, near-lossless, vLLM successor
+   C: I just checked your github and it is amazing. The code is flawless along with the research. You have essentially created a simple one-click infrastructure that is very helpful for anyone in AI research.
+#28 P: Since you've volunteered as tribute, give it a shot and let us know if the quota has improved.
+   C: As tribute, I bit the bullet on the $40 plan to test out K3.1 Pro. Still burning through the 5-hour rate limit way too quickly, though. Output quality seems solid enough, but the value will probably make a lot more sense via API pricing for smaller projects. My current tier list based on what I’ve b
+#29 P: Economist Julian Simon was an energy advisor to the US government and said that if we use all the energy in the Sun there may be other stars out there. As Prof. Bartlet wondered, would you base US energy policy on the plan to go and get another Star 
+   C: Beaming energy across interstellar distances is much easier than moving stars.
+#30 STORY: Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)
+   C: Is this really surprising to anyone? I just sorta assumed that Google was hoovering up anything I type into its AI and don't tell it anything too personal or sensitive. Is anyone under the illusion that our data is not being collected, whether it's Google or literally even the seemingly innocuous TV
+#31 P: The affairs are irrelevant. The real problem is knowingly circumventing export controls.
+   C: Someone being deceitful is relevant to some of us. Not holding leaders to a high standard fucking blows.
+#32 P: Nice work, will you develope an IOS one?
+   C: I dont think iOS allows accessibility like service due to security restrictions.
+#33 P: > isn't three a need for technical solutions? I don't think anyone's saying that technical solutions are by definition unnecessary. Whether or not it is, is just not relevant to the matter at hand. Roads facilitate crime. Opposing the removal/blockin
+   C: the roads aren't a service provider and can't selectively filter specific cars. But we do in Europe have low emissions zones were people with high emissions vehicles and thus without the right plate or stickers do indeed get fines.
+#34 P: They won't with perfect accuracy, and I'm sure you're right that some methods will be a lot more difficult to detect reliably (e.g., a Muse agent that runs in a specific type of VM and is hosted in known data centers using specific network providers 
+   C: They just use a residential proxy and direct their traffic through a user cellphone with Facebook or Instagram installed, or from an LG television.
+#35 P: Great. So you store a type id separately. But you make that typeid define how to safely read (maybe not interpret, but still read) the data without needing to cross-reference to anything else. I’ve written plenty of high performance code. You can hav
+   C: > Great. So you store a type id separately. But you make that typeid define how to safely read (maybe not interpret, but still read) the data without needing to cross-reference to anything else. Yes, that's how it works in Postgres
+#36 P: Reddit has an agreement with Google, only G is officially allowed to scrape reddit's content.
+   C: I believe they have agreements with both OpenAI and Google. That's why Claude does not source Reddit but GPT does.
+#37 P: > If it weren’t OAI and Anthropic, it would be others. Doing what? Rushing to make trillion dollar companies, rather then developing the tech and their companies in a sustainable way? I don't even know what in the original comment this would be a res
+   C: Rushing towards creating machines that can give you vast amounts of military, political or economic power without regard to it's effects on the old order. The particular form of the pursuit of power practiced by OAI and Antrophic - the creation of trillion dollar companies, is one of the most benign
+#38 P: Last.fm and scrobling was way more accurate 20 years ago than anything available today.
+   C: It’s still pretty good. I use it for discovery on my self hosted navidrome setup
+#39 P: Touch-screen Macs is kind of a terrible development for anyone who loves the Mac. It's not just a harmless feature that you can ignore if you don't want it, because it's customer-facing and will now generate complaints and bugs from people who do use
+   C: I disagree. One of the key differentiators is that technology is being introduced in the highest cost, highest capability sku in their product lineup. This laptop costs more than my first car, although I’m old :) What Microsoft introduced touch surfaces, they came out of the train wreck of Longhorn 
+#40 P: Rather I'm not convinced by your claim.
+   C: You’re not convinced by my claim that AI won’t go away? In other words you aren’t convinced that AI is here to stay. This is an extremist take. You can throw all Wikipedia fallacies you want on me
+#41 P: Yes, I agree. Also, premium economy (more leg room, better food, etc.).
+   C: And that is a kind of scam, how a $100 advertised price turns into almost $200 at then end.....
+#42 P: People are being conditioned to think that all the answers come from AI, or that AI knows everything. But AI is only getting (inaccurate shadows of) the info from these sources which it is simultaneously working to kill. (Websites like this, StackOve
+   C: > What happens when there are no more sources They just let the LLMs hallucinate and lie to us. It's not like you could verify anything anymore because fact-reporting organizations have been killed off by then too.
+#43 P: My strategy: diversification. I run deepseek harness (which I made a vs code integration for and extended it a lot with plugins) and integrated it with my codex and claude subscriptions as well as an openrouter account. This way I can switch models a
+   C: How long has this been working for you? (Or others). Since Anthropic doesn't seem to like subscriptions being used in third party harness, do they actually enforce that nowadays?
+#44 P: PC Gamers literally just don't want to use a second launcher so it doesn't matter what you offer them. See how Epic offered games for free and it still didn't matter.
+   C: > PC Gamers literally just don't want to use a second launcher Is that true? And if it is true, why is that? Pointing to free games on Epic and non usage tells you that people don’t want Epic. Doesn’t tell you why. Nor does it tell you whether people continue to stick with Valve. And that is the poi
+#45 P: It's pretty obvious that Gemini 4 Carbon is not token efficient. It also has relatively low tokens-per-second compared to other models. I can think of several reasons why this is the case: 1. Google has huge amounts of cash and compute. Their goal wa
+   C: 4. Google did a worse job than Anthropic and OpenAI.
+#46 STORY: "Musk" Documentary Pulled from Almost Every One of 472 Theaters After One Week
+   C: Between Melania and Musk, which one would go to see?
+#47 STORY: CSS-Tricks has a new owner
+   C: I wish I didn't have such a bleak outlook for community-focused tech publishing. Sites like LWN and 404 Media seem to be hanging on, but they're more likely the exceptions that prove the rule. My paycheck for the better part of a decade came from publications run by a large tech company in an arrang
+#48 P: I imagine official support for 3rd party app stores might open up some options for easily installing apps. However, that might require the store adding support for this type of iOS install or a newer version of iOS with 3rd party app store support.
+   C: Someone is going to set up an unofficial app store for this and fill it with pirated and malware-ridden apps. Then some companies will be convinced into releasing .ipsw files for "debug and research" purposes and starts taking subscription through those installs. Then Apple will lose choices but to 
+#49 P: > The neo-liberal project that hollowed out American business/manufacturing, the supported ruinous offshoring is composed of traitors to the American people on both sides of the aisle. They should all be prosecuted as such. Remember it was the Americ
+   C: With the Trump regime there's been a rather explicit transition from a system of neo-liberal exploitation-with-rules to an out and out oligarchical / corrupt system more analogous to Putin's Russia than Clinton or Obama era US globalized capitalism. It's .. yes ... worse. Before what you had was an 
+#50 P: This is very, very weak. Clinical science is inundated with well-reasoned "potential leads". Ideas for targets, and even designing drugs to interact with those targets in the desired way, is not the bottleneck. Hasn't been for decades. The bottleneck
+   C: I just saw a similar post from Anthropic which also landed like a thud. The deep need of OpenAI/Anthropic to churn out flashy announcements today to with upcoming IPO is in serious conflict with the realistic pace of biological or medical research, let alone successful clinical applications. They wo
+#51 P: Distilling just works too well. It costs much more to aggregate the data in the first place and train the first model, but once that exists and you are selling access, the second guy can train their model by using the first model to generate the trai
+   C: Given Anthropic is basically just “distilling” the IP of others they’re in no position to cry foul when others run the same playbook on Anthropic IP. They can pound sand on that front.
+#52 P: If you assume the machine will be compromised, is there any way around this?
+   C: Confidential computing and hardware security are starting to be an actual thing now. They are mostly used for DRM and I would not trust them when your adversary is three letters long. Hardware security used to be a joke. Now verified boot, encrypted RAM, key storage in hardware security models and h
+#53 P: That is not an automatic fact. Humans are very emotionally complex creatures. And Jensen didn't call his secretary and say "can you pencil in 'humiliating my wife and kids around 4PM'? You can? Great, thanks".
+   C: Oh, with this “open letter” he literally did just that.
+#54 P: Any idiot can create their own company. For example, I have one :)
+   C: they claim 60 full time employees
+#55 P: While the segment of the population who are motivated and able to engage with the public comment process may often not be representative demographically, it's hideous (besides semantically inaccurate) to dismiss them as a special interest group. It a
+   C: They are definitionally a concentrated special interest group. If that's hideous to you, that's on you.
+#56 P: Nope, that engineer had far too much access. I'm confident this is the case in pretty much all organizations to some degree, but a lot of engineers are also the only ones that can deny themselves the access so in a roundabout way it's their fault any
+   C: It's not a access thing, it's a security control. For example at most good crypto companies that hold wallets it's not possible to ssh at all, even if someone asked and go permission. It just simply isn't possible short of having a AWS root key or physical access to a computer in a DC. There is no l
+#57 P: The iPhone Duo is extremely well-executed. There are some first-gen tradeoffs for sure but this is already the best phone I’ve ever used.
+   C: Yeah and OP is incorrect, foldables are a rapidly growing segment in mobile phones. Having used one for over a year, I'm not going back, and had the Duo been out a couple months ago, I probably would have bought that instead of the Fold8.
+#58 P: It looks like it: https://gerrymandle.com/
+   C: The horse version feels more fun and cozy.
+#59 STORY: Tell HN: Some of My Recent Ideas
+   C: The health idea of yours is really interesting imo lol. I’ve been playing with two: 1. Knowledge Graph that auto parses vital context out 2. A security feature for agentic memory to secure chunks that don’t determine perms in memory Would love to chat with anyone on these lol
+#60 STORY: Tell HN: HN is being scraped for emails to scam
+   C: Using a separate email just for HN is good advice. Once your main address is posted in a hiring thread, you can't really take it back
+#61 P: One crucial part of my role as my family's de facto IT support was making sure my mom's FreeCell score record (which was just a Windows registry value) made it from each computer to the next across countless upgrades. She hated the new version that c
+   C: I'm so sorry for your loss, but now you have to tell us her high score!
+#62 P: Maybe I misunderstood but are you saying that companies have these lengthy interview procedures to filter out smart/capable/non-desperate candidates? Sounds a bit counterproductive
+   C: I'm saying business managers tend to follow patterns that gets them to the numbers on their paper. What you, or a single employee, sees as counter productive is often just a means to an end. They'll spend 5x your ask for a raise finding someone to fill your position because denying you keeps the res
+#63 P: I don't think the site mentions it, but it seems to stop counting actors after they retire. There's no way anyone is within 4 movies of every single actor in history.
+   C: Why not? Plenty of actors working today got started in the 80s or 90s, and they'll have worked with actors who got started in the 40s or 50s.
+#64 P: Maybe don't trust something with non-deterministic output for critical level security?
+   C: *chaotic It is deterministic, if we're being pedantic
+#65 P: 1. GPT-4.5 launch. "AI crash is gonna lead to decade long winter." https://news.ycombinator.com/item?id=43206226 2. Claude Code limits tightened. A commenter expects the bubble to pop, while arguing AI will succeed long term. https://news.ycombinator
+   C: You kind of proved his point about brigading with this giant link dump.
+#66 P: I don't know about this guys, we used to have phones and as soon as we had the chance to use text messages instead we went all in on them. I personally, and many of the people I know avoid voice calls as much as possible. So if I can't really be both
+   C: For me it is the fact that it is asynchronous that makes the one preferable over the other.
+#67 P: So what's the solution? I imagine the right one isn't specific to fan wikis. We're going to need sites where 100% of contributed content is human-written. Who is building this? How will it work? If the solution merely makes it high friction to post A
+   C: > So what's the solution? There is no solution (though there will be plenty of grifters trying to sell one). The open internet we currently know will be lost to mountains of slop just like usenet and email were even prior to the AI era.
+#68 STORY: Hackers and photographers: Opus 5.5 had become smart enough to quit writing code
+   C: I used to be surprised in Sci Fi novels with mentions like programmer archaeologist. Makes much more sense now :p
+#69 P: Then the bill will never become relevant and it’ll just be a waste of time and you can laugh at it in hindsight. And I’m sure none of these companies will lobby against it, since it’s just tilting at windmills and won’t mean anything.
+   C: Oh I’m laughing at it now, no need to wait for hindsight
+#70 P: > this ongoing hatchet job Let’s call a spade a spade. In your book, is a boss sleeping with a subordinate okay? Is it only okay if the boss makes lots of money? Because there is a world of difference between criticizing an angle (where I’m sympathet
+   C: Personally, yeah, I think it is fine for a boss to sleep with a subordinate. It is the norm in the vast majority of the world, the main plot point of countless movies, and the starting point of an unfathomable number of happy relationships. The basis on which this is considered a moral travesty is b
+#71 P: I was referring to written communication. I agree with > Words are most effective when they buck the trend in just the right way. But I cant bridge from conference room to writing style. Also my aim is not to produce Hemingway style writing, my goal 
+   C: Yeah... I don't think Hemingway ever gave a damn about anyone else, especially the reader. Anyway, I'm just saying that persuasion is half the job. LLMs can't produce new information. They rearrange and distill existing information. That doesn't convince anyone who is already at least partially fami
+#72 P: It’s accelerating. We can automate scientific discovery. Imagine the amount of knowledge we may have over the next several years. It could be staggering.
+   C: It seems that we have yet to see any new conjectures.
+#73 STORY: MacBook Pro with PROLED XDR Display and Touch
+   C: devices have become so expensive you can now lease them like a car..you will own nothing and be happy
+#74 P: Hi! I'm Phillip Compeau, I teach in Carnegie Mellon's Griffin School of Computer Science, and I run CS Learn, which launched today. We're releasing full semesters of lectures from current CMU computer science courses across a variety of topics, with 
+   C: I love that there will be an updated version online now for such courses now. Yes MIT did it 25 years ago or w/e, but I'm sure _something_ has changed that is worth knowing about :D
+#75 P: While bloodletting (with leeches even!) is actually a genuine treatment. For very specific issues, narrowly applied and supervised with leeches that have been ensured to be disease-free. That's a far cry from "we don't really know what ails you, prob
+   C: Hemochromatosis patients are advised to donate blood routinely to control their symptoms. And you can lower the amount of heavy metals in your body by donating blood. Though I don’t know if the recipient would be happy to know that. Knocking people out has many advantages, but only in certain well d
+#76 P: I hope people understand that the affairs are not the reason he is being fired - NVIDIA has supposedly been skirting the export ban put in place by the previous administration. This was put in place for national security reasons. Whether you agree or
+   C: What happens if all the money in the system circulating through AI companies turns out to be ill-gotten gains?
+#77 P: No. This is opportunity cost. A clear example is Google. They can easily give all compute to Deepmind, yet majority is allocated to be sold at market rate. So, every compute Deepmind and Googlers get is lost revenue opportunity and must be measured a
+   C: There is a huge difference between Anthropic and Google dog-fooding: Anthropic does not own or build data centers, they rent (as far as all the reporting on this I've read). Anthropic employees dog-fooding with Claude tools isn't "internal", its most likely being run on external AI data center compu
+#78 P: I thought Gemini 4 Argon is still not publicly released.
+   C: it is for personal accounts, but for corporate accounts your IT needs to enable it
+#79 P: Are we sure this is a new pretrain and not them rounding up 2.8T?
+   C: The Kimi K3 announcement ( https://www.kimi.ai/blog/kimi-k3 ) used 2.8T and it would be weird to round that up for this announcement.
+#80 STORY: Petered
+   C: I think the Peter Principle addresses a good point, but misses a critical one: the hierarchy itself. Obviously, a manager requires different skills than an engineer, so why should a good engineer be a good manager? This holds the other way round: a good manager is not particularly likely to be a goo
+#81 P: I'm amazed MS Paint is somehow up to version 11, let alone 11.2605 (!). I literally can't remember the last time I used it, but what are they even changing?
+   C: The Windows 11 version is a complete rewrite.
+#82 STORY: Appreciating the beauty of all your body's scars and scratches
+   C: This is very wabi-sabi.
+#83 P: Denmark would disagree, but with the limitation that the data centre needs to be sited in an appropriate location. https://danskfjernvarme.dk/viden-vaerktoejer/udgivelser/taen... https://danmarksdagblad.dk/article/datacenter-paa-15-million... https:/
+   C: These are future plans and they lack specificity. I don't think they will come to fruition. The problem is that waste water from data centers isn't hot enough.
+#84 STORY: Ask HN: Who is hiring? (November 2026)
+   C: I'm Sushant Gangurde, A Software Engineer focused on Full-Stack Development and AI-powered applications. I work with React, Next.js, TypeScript, Node.js, Python, PostgreSQL and MongoDB, and enjoy building practical products from frontend to backend. I've built projects involving AI integrations, aut
+#85 P: One shouldn't forget is that every dollar that's spent on something, is a dollar not spent on something else. As long as both options are domestic and does not involve money being sent abroad, increase in price of one product means decrease of price 
+   C: > gas, becoming more expensive, made other things cheaper by suppressing demand on them. Nope, it may suppress demand for "other things" but doesn't make them cheaper. The making of "other things" uses gas too, as do their makers, so they have to increase their prices as well in order to compensate 
+#86 P: Half of their revenue was booked through Singapore? I suspected that Jensen was fired for helping evade sanctions, but now I'm sure. I dont believe the board fired the founder and only CEO they ever had over a series of affairs. They fired him becaus
+   C: Singapore is a major hub for many organizations.
+#87 P: The general public does not care about code quality. The general public hates it because it stole the collective work of humanity , because OpenAI and Anthropic can’t shut up about how dangerous AI is and how it will kill us all, how it’s linked to T
+   C: > The general public does not care about code quality. Those caught up in the recent Microsoft outage would probably disagree. Moreover, the public definitely cares about the poor quality of AI output in general - hence the most common word for it being “slop”.
+#88 P: I switched entirely over to Asahi Linux on my M1 Macbook Air and installed a third-party 55Wh battery, as the original battery had fallen below 80% capacity. That machine is good to go for another 5 years. There are no features or performance charact
+   C: > So long as I can rent an RTX PRO 4000 Blackwell at about half a buck per hour through a European provider, .. Mind sharing the provider’s URL?
+#89 P: Should have used AI
+   C: Well, if the point is to have something that works well and follows the standard, he shouldn't have done anything at all and just use what was already made.
+#90 STORY: WSJ: Jensen Huang was a difficult boss
+   C: Steve Jobs was a difficult boss. So was Bill Gates and Jeff Bezos and Elon Musk. They were impatient and always in a hurry, they accepted nothing but your best. If you worked hard not to disappoint them then you accomplished great things.
+#91 P: I don't believe they literally meant Tulips but rather its hype cycle. I commented on the other two that can be taken literally
+   C: The interesting thing is I think we might over hype the tulip hype now. It seems like much of the tulip mania has become the stuff of legend. From what I have read, it seems closer to baseball card trading than AI or dot com. You can find baseball and pokemon cards trading for thousands of dollars r
+#92 P: Ooooof the results here are rough . A very young child might find this charming, but I think it's kind of embarrassing. Like, the walk cycles alone are. Yeah... To say nothing of ur word shaders, inconsistency in the characters, questionable gender s
+   C: When it gets there eventually (5-10 years??) it's gonna be pretty rough for the humans that used to do those things. Then again I suppose that applies to the rest of the economy as well.
+#93 P: It's really surprising we have open source 3D printers with way more complex kinematics, parts, etc than a printer but we don't have a traditional open source printer despite printers existing since the 70s.
+   C: https://www.crowdsupply.com/open-tools/openprinter ? It's been on HN this year to my recollection. Maybe it has some closed firmware or something that means it's not "open" for you?
+#94 P: Software Director could be confused for Director of Software Development.
+   C: Director of Software Directing?
+#95 P: I kind of want to try something like this for garden weeding. Put a small spinning blade instead of a grabber arm on it. Computer vision can identify any weeds popping up and it'll go over and cut them before they get too big/woody for the blades. Th
+   C: Why not use grippers to pull them? Probably more effective because there's no root to grow back from, shouldn't require too much force when they're small/the soil is damp, and you don't have to figure out torsion/"friendly fire" from a spinning blade.
+#96 P: I'm obviously not going to discuss this argument further. Trying to counter a logical argument with a technical argument is pretty lame and doesn't make for a healthy conversation.
+   C: Uh, sorry, what? Trying to measure similarity between syscalls is a) impossible, b) pointless, so obviously I'd really like to understand why someone would want to do something like this — but I'd rather not speculate about what and why you think and believe, and instead to just straight hear from y
+#97 P: I can't believe more people don't point out his unbelievably bad track record of predictions. For a public figure, this should be incredibly damning.
+   C: Not sure if you're aware, but a lot of really smart people have made a bunch of wrong predictions. Turns out it's pretty hard to predict the future.
+#98 P: I dream of a parallel timeline when OKLAB became the standard colourspace in 1980! It's a very colourful dream, the lightness stays consistent as the hues change, and colour interpolation just works!
+   C: Oklab/oklch is good for consistent luminance across hue, but the real world gamut is so limited - our display / print tech is always able to make green/yellow far brighter than red/blue, for any given tech - it can be a little frustrating to use.
+#99 P: yeah, fresh air, appreciating parenting, how awful and dystopian much worse than having one's identity entirely subsumed by typing code and reading software documentation
+   C: I mean, sure, if it's enough to satisfy a dog, why wouldn't it be what everyone wants. Maybe the AI will even remember to play fetch with you. Intellectual anything? Doing things? Pfft. Just breathe the fresh forest fire air in the fresh, new, brightly incinerated climate we're building towards. It'
+#100 P: Well, with the recent news about OpenAI being unable to find investors, I feel like it's already happening
+   C: Don’t trust the news, especially now that AI is seen as part of US national security. We’re in a war, both financially and technologically.
+#101 P: "It's the safest system in the world, I mean, uh, except that it's horribly outdated with switches from the 80s and radars from the 70s, so we really need 50 billion dollars from congress STAT or we're in big trouble, but it's completely safe. Also C
+   C: It’s amazing we aren’t all dead, given how stunningly incompetent these people are
+#102 P: When was Elon promising ReactJS projects? He promises cars, full self driving, etc. etc. Extremely consistently overpromises and underdeliver. Anyway, "I want billionaires to fail" is fine, cool, I probably agree, but the question being argued was "i
+   C: > Extremely consistently overpromises and underdeliver. The idea is to set a goal to strive towards. What he has delivered is incredible.
+#103 STORY: [dead]
+   C: I made a YouTube series on making a synthesizer with Python from scratch! It was a lot of fun
+#104 P: If that was the only reason I could name a dozen watchable movies from the last decade, but I can't. I can name a dozen good movies from 1984: 1. Beverly Hills Cop 2. Ghostbusters 3. The Terminator 4. Gremlins 5. A Nightmare on Elm Street 6. Police A
+   C: I love all those movies because they are from my generation, but how many of those would be considered good with today's audiences?
+#105 STORY: ZapFast: A fast, native WhatsApp client in Rust and egui
+   C: It's a bit basic. I installed it and then uninstalled it.
+#106 P: Emacs is probably older than me why should we care about what they used in 80s?
+   C: Calculus is older than you. Does that mean you won't use calculus?
+#107 P: How does that affect the uptime of their wallet?
+   C: Well the data was up on the hard disk. Fault lies with the electricity and cables.
+#108 STORY: Japan's Jimi 'Mundane' Halloween Costumes of 2026
+   C: Love how long each consume caption is. It could just be called Halloween costumes that take many words to explain.
+#109 P: Eh, I built a feature flagging system for service with millions of daily active users and it: wasn't hard to do, was easy to extend to support targeting, segments, and progressive rollout, and on top of it flags are easy to cache, so the database pre
+   C: As I mentioned, I'm not advocating for LD. I'm advocating for feature management systems (over env vars/db values and other similar naive implementations). The build vs buy is a separate argument. > that was the main motivation, we wanted this kind of control without adding latency to our requests R
+#110 STORY: Advancing science and engineering with Antigravity's /teamwork
+   C: Interesting that a Rust re-write pre optimisation was 30% slower than the C++ equivalent. I wonder if they optimised the C++ it would actually have more speed benefits than the Rust alternative. Only they can't claim it's a Rust rewrite like every other company at the moment.
+#111 P: I'm on Ubuntu 24.04 LTS, and things keep breaking after updates. When the video drivers break, YouTube starts dropping frames even at 1080p. When the audio drivers break, my headphones or microphone stop working. These kinds of issues were a nightmar
+   C: On Ubuntu since 2006, Kubuntu the past several years on Dell, HP and Lenovo machines (multiple, home and work) and have not experienced what you're describing, odd. Wife too, complete non-techie, Ubuntu on 2 machines so far, no issues.
+#112 STORY: Ask HN: What have you built privately with AI that you'd like to share?
+   C: Few weekend micro-projects 1. https://umoji.org/ - find, compose and pick emoji text that you can copy, share or bookmark (I got tired of tracking, popups, ads from various emoji picker websites). 2. https://blug.blog/ - generate static blog and deploy on Cloudflare (I got tired of wrestling with Wo
+#113 P: That's the thing though: The billions have been there for a while, but the bad corporate behavior is relatively new from tech.
+   C: Then why is GNU so old?
+#114 P: Need a human's thumbs up before reading a wall of text from lesswrong, sorry.
+   C: If when you say “a human” you mean this is because you expect LW to be full of AI-generated text, their policy requires that chunks of language-model-written text go into special content blocks which are headed by the name of the model and rendered in a distinct sans-serif font, so that it can be us
+#115 P: ...because Mainframes were not thought for Devs & Tech People, but Business and Compliance Clowns enabled to do some stuff without CS degrees :-D
+   C: Sure, but IBM could have changed all of that and made mainframes drastically more approachable and viable.
+#116 STORY: Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English
+   C: congrats, this is a very exciting release. I cannot speak to the other accents, but my experience has been that American south accents are really poorly represented in mainstream Speach-To-Text models. If your STT model is pointed at end users, this can cause quite a quality drift when looking at ev
+#117 P: So this is how it is going to be? AI written everywhere? > I read that driver and copied the protocol: which registers to write, in which order, to wake the sensor up and start streaming. > legocam is GPL-2.0, like the driver it learned from. Please 
+   C: > It runs at about 5 frames per second. That's the limit of USB 1.1 and the sensor clock, not the code.
+#118 P: Larger dies == more material == more chance for impurities to wreck the crystal. Chasing 9’s is very hard already (both uptime and purity), and by the time you start getting into 6+ digits of 9’s? Really really hard.
+   C: did anyone say anything about larger die? I think this is a more-die play, so a given defect density won't affect yield. (maybe a small improvement due to less circumference for given area.)
+#119 STORY: Pakistan's solar revolution success is causing the national grid to crumble
+   C: Grids are very fragile things in headlines. They crumble, collapse and melt. They strain and creak. They are flooded and overwhelmed. Though when I click through the much more boring current headline suggests it will merely "lag behind".
+#120 P: Two years ago: nice toy. 18 months ago: it can do some things but it’s generally not useful. 12 months ago: wow; this can write ok code that a human has to do a lot of review to make sure it’s ok. 6 months ago: holy fuck I’m shipping great stuff with
+   C: Same experience here. I think it’s 50/50 models getting past an inflection point and people learning how to use them. I hope that the advances in small models can move that inflection point to models under 200b parameters, because then we an all own our own tools.
+#121 STORY: Ask HN: What are your advice for a CS/IT student for the future?
+   C: Do not tie your entire identity to your job and how well you do it. Learn to appreciate the world through non-technical lenses and develop a life and hobbies outside of tech. AI is currently killing my business and threatening my old CS career, but I have things to retreat to: a network, friends, ho
+#122 STORY: MiniMax-M3.1-Flash Artificial Analysis Performance and Price Analysis
+   C: The chart that I pay attention to is Intelligence Index vs. Output Tokens per Task[0]--it penalizes models running at 'max' thinking with lower intelligence and more churn to get to the answer. The proprietary models 'cheat' on this since they generate but don't send output thinking tokens to be cou
+#123 P: Kings were also famously out of touch with reality. Hierarchies, if left alone to grow this tall, do this to people.
+   C: Only the bad kings and they soon found out about it. You would do well to look at the history beyond the modern era.
+#124 P: Litmus test for a person’s moral character: do you return your shopping cart to the corral? Caveat that this is for stores that don’t incentivize with getting your coin returned.
+   C: After only ever seeing carts with coins in Germany, over the last years I've been to a bunch of supermarkets without coins. AFAICS all the carts are still being returned, and they don't seem to have GPS-driven brakes, so cart theft rates can't be too bad. I'd say that's a positive sign!
+#125 P: I think there are a lot of people out there with good problem-solving skills but for whatever reason did not get into programming or they tried and they got put off with learning the languages / libraries or got stuck and didn't find a solution easil
+   C: I can absolutely believe this, actually. Considering how the access to rapid prototyping has rejuvenated my interest in programming when I am a seasoned programmer, I definitely see the value in that kind of jump-start. And yeah, without LLMs, writing code absolutely can be the bottleneck sometimes,
+#126 P: Signal sends you a notification that says "new version available, tap here to update", but tapping it never did anything for me. I have to re-download the apk their website every time there is an update.
+   C: If using GrapheneOS, you need to give permission to write/install packages.
+#127 P: 
+   C: You don't think it's because of his extramarital affair with Alice Huang—a Chinese businesswoman identified by U.S. intelligence officials as a Chinese intelligence asset—as well as a newly reported relationship with Nvidia executive Kimberly Powell? It's all democrats-doing? This sounds a bit red-t
+#128 P: I agree. We may as well make some lemonade out of these lemons. IMHO the ability of companies to 'securely' close off hardware and software from their users is a sad casualty of the success of cryptography, and not a feature.
+   C: Most things have tradeoffs At some point you’re forced to stack rank two or more of your values in a case where they’re mutually exclusive
+#129 P: >I remember some noise about making the practice illegal or putting some guard rails against but I don's how that's practical. In the EU, the law is that advertised discounts must use the lowest offered price from the previous 30 days as the referenc
+   C: Do companies get around this by "offering" the $3000 price for 1 second on a website at 1:00 in the morning?
+#130 P: GitHub is such a mess. They seem to be doing everything and nothing. GitLab is 100x better, in terms of DX. While I still have a soft spot for GH, its frustrating to use it when GL exists.
+   C: Downtime aside, what do prefer about GitLab?
+#131 P: banks have FDIC, magical token storage companies have nothing
+   C: Isn't USD a magical token too? Just printed endlessly by the us government. Bank don't loose USD because it can printed at will the the holding country like they bailed banks in 2008.
+#132 STORY: Show HN: Yogurt – Free, private, open-source alternative to Granola
+   C: I also got frustrated with Granola earlier this year and have been building my replacement - Noted: https://takenoted.com/ It shares similar principles but is (currently) closed source and mac-only. Take a look at anarlog as well - it's a great project and I wish I'd found it earlier as I probably w
+#133 P: > I don’t see why it can’t be collected but not read until a warrant comes through Because then you get a Brownshirt organization that just takes the data to pursue its political enemies while the courts catch up.
+   C: So to prevent nazis we need to eliminate private property and free speech?
+#134 P: > Starship’s been in development for over two decades What? The first version of something that looks anything like Starship was the ITS announced back in 2016, later "BFR" in 2017 and the stainless steel version (which is now flying) in December 201
+   C: Space Shuttle was an even harder project. Amendments to the Starship project were all directed towards making it fly better. Modifications which various departments demanded from the Shuttle project made it a worse and worse spaceship. They even had to let go of the emergency recovery capability, wh
+#135 P: Comcast quietly did away with their data caps some years ago.
+   C: The Comcast plan I has from Oct 2024 to Oct 2026 had a 1.2TB data cap. It was $35 per month for something like 200Mbps down and 10Mbps up. I exceeded it a couple times and was charged $10 for 50GB.
+#136 P: I don't agree with that. They made the PC revolution possible by making hardware that was at least affordable enough to be bought by a large number of businesses and individuals. It also set the stage for the clone market. I'm pretty sure that if IBM
+   C: That was completely accidental and they themselves tried to close the barn door with the PS/2 line in 1987 but at that point it was too late.
+#137 P: PC Gamers literally just don't want to use a second launcher so it doesn't matter what you offer them. See how Epic offered games for free and it still didn't matter.
+   C: There's a little more to it than "just a launcher." My Steam account dates back to the release of Half-Life 2. Loads of games, thousands of dollars spent, and a service that's been reliable for over 20 years. Why would I use a different service? I'm not unique, everyone else using Steam is in the sa
+#138 P: Interesting, the author is recompiling the Xbox game to PC, and complaining about the poor graphics of the final version. IMO the gameplay and glitches are a significantly bigger problem. One Argentinian decided to take a different approach, rebuildi
+   C: Sonic 06 can maybe be fixed at a technical level but not at gameplay level, yeah. Tortured myself by playing it through it twice and when you do know how to handle the game (don't do XY or the game freaks out, avoid jumping here, don't touch the analogue stick here...) a few Sonic parts can be quiet
+#139 P: The big tech companies are getting old. I think it's a fundamental rule that the competence and effectiveness of an org must fall, over time, driven by the fact that a person will more readily hire someone they can understand than someone that is mor
+   C: I suspect there is still a good amount of shedding the defensive-hiring going on from the pre-AI, low interest, high growth inflation front-loading era. Now all that is crumbling, interest is rising, growth is contracting due to several factors, and AI is clearly crushing manpower demands. What do y

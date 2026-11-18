@@ -1,0 +1,36 @@
+{
+ "week1": {
+  "comments": 63602,
+  "users": 15906,
+  "top1pct_share": 0.14202383572843622,
+  "top10pct_share": 0.5042294267475865,
+  "single_comment_users": 0.48591726392556267
+ },
+ "week2": {
+  "comments": 68946,
+  "users": 15946,
+  "top1pct_share": 0.14247382009108578,
+  "top10pct_share": 0.511806341194558,
+  "single_comment_users": 0.4660102847108993
+ },
+ "week3": {
+  "comments": 71176,
+  "users": 16640,
+  "top1pct_share": 0.1344975834550972,
+  "top10pct_share": 0.5011380240530516,
+  "single_comment_users": 0.46280048076923075
+ },
+ "week4": {
+  "comments": 69850,
+  "users": 16526,
+  "top1pct_share": 0.1449964209019327,
+  "top10pct_share": 0.5024051539012169,
+  "single_comment_users": 0.4640566380249304
+ },
+ "stability": {
+  "spearman_k1_k2_among_W1": 0.5699772924921915,
+  "frac_W1_users_back_in_W2": 0.5209983653967056
+ },
+ "lincoln_petersen_active_users": 30606.621937975142,
+ "seen_W1_users": 15906
+}
